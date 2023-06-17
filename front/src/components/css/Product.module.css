@@ -1,0 +1,43 @@
+.productCard {
+    width: 200px;
+    height: 60vh;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 3% 0 3% 0;
+    position: relative;
+}
+.imageContainer{
+    width: 100%;
+    align-items: center;
+}
+.productImage {
+    margin: 10%;
+    width: 80%;
+    height: 25vh;
+}
+
+.productContent {
+    padding: 16px;
+}
+
+.productTitle {
+    font-size: 16px;
+    margin: 0;
+}
+
+.productPrice {
+    font-size: 14px;
+    margin: 8px 0;
+}
+
+.productCategory {
+    font-size: 14px;
+    color: #888;
+}
+
+.productDescription {
+    margin: 8px 0;
+}
+
+

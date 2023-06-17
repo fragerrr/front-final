@@ -1,0 +1,40 @@
+.card {
+    width: 20vw;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 60vh;
+}
+
+.cardImage {
+    width: 100%;
+    height: 60%;
+}
+
+.cardContent {
+    padding: 16px;
+    height: 30%;
+    position: relative;
+}
+
+.cardTitle {
+    font-size: 20px;
+    margin: 0;
+}
+
+.cardDescription {
+    margin: 8px 0;
+}
+
+.cardButton {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.cardButton:hover {
+    background-color: #0056b3;
+}

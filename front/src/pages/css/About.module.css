@@ -1,0 +1,29 @@
+.section {
+    background-color: #f9f9f9;
+    padding: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.section h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.section p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.5;
+}
+
+.section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.section a:hover {
+    text-decoration: underline;
+}

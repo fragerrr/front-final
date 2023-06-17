@@ -1,0 +1,7 @@
+.categories{
+    margin: 2% 5%;
+    display: grid;
+    grid-template-columns: 0.19fr 0.19fr 0.19fr 0.19fr 0.19fr 0.19fr;
+    justify-content: space-around;
+
+}

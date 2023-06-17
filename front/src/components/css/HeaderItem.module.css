@@ -1,0 +1,10 @@
+.item{
+    text-decoration: none;
+}
+.item:hover{
+    cursor: pointer;
+}
+.item a{
+    text-decoration: none;
+    color: white;
+}
